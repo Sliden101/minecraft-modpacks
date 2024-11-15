@@ -1,0 +1,16 @@
+filename = 'Create-Unify-1.20.1-1.0a.Release.jar'
+name = 'Create: Unify'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f2dd1941ec0f09084d95ba25a6f6c06319b3b64a2b76d6492dd304e46343b7a8b202eb5cb426fc1abdcbf411bec90b294fd481ca00d267c38f2111cc09cad351'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fmHq5iI6/versions/n75f2vFA/Create-Unify-1.20.1-1.0a.Release.jar'
+
+[update.modrinth]
+mod-id = 'fmHq5iI6'
+version = 'n75f2vFA'

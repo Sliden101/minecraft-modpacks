@@ -1,0 +1,16 @@
+filename = 'rendi-1.0.jar'
+name = 'ReNDI'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'eeb8250da53f689d95caa7f7a403a0c723a3a2c101f54ed3daf3d0c1cc82c045448da32c168c5ef0f72179b92d1e0eafff143e4986d2b030ea9a6bf14bbe852c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/a4K2Nlsh/versions/ZtGE1JGl/rendi-1.0.jar'
+
+[update.modrinth]
+mod-id = 'a4K2Nlsh'
+version = 'ZtGE1JGl'
