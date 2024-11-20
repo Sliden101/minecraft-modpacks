@@ -1,4 +1,4 @@
-name = "Example Pack"
+name = "Better Minecraft Fixed"
 author = "Sliden101"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9c3d5c9842208eeb95c458a12675aa71c805e120626129b860951366b331727c"
+hash = "c1e56e06957aa9eb33bd555bb032ef4e0685887e16d6c7727c7cfe83c8823d4c"
 
 [versions]
-minecraft = "1.19"
-quilt = "0.17.0"
+forge = "47.3.12"
+minecraft = "1.20.1"
