@@ -1,3 +1,3 @@
-# Example Pack
+# Better minecraft fixed
 
-Example minecraft mod pack templates for all my packs.
+based on BMC4, 

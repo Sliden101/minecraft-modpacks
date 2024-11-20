@@ -1,0 +1,16 @@
+filename = 'aether_protect_your_moa-1.20.1-1.0.0-neoforge.jar'
+name = 'Aether Addon: Protect Your Moa'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4a23c021b964337bf6ade8788ca21b6017dcba8430992e9938a8146fd38968fe684c8e2f9df0121cdecb32286b464f5aa4adbf7e142a6ff92262fe38642fa9bf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6KeEgbxe/versions/3LK9WMHU/aether_protect_your_moa-1.20.1-1.0.0-neoforge.jar'
+
+[update.modrinth]
+mod-id = '6KeEgbxe'
+version = '3LK9WMHU'

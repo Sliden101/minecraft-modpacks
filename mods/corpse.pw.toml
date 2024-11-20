@@ -1,0 +1,16 @@
+filename = 'corpse-forge-1.20.1-1.0.17.jar'
+name = 'Corpse'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c97961c15df864b4c66c2b73bb33d982c4262f27a9f238b9a8306dba8a0594be475d571500d8bbb4cbcae9ba934a505decdec15fcb4bf18b03c377f7e02796cb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WrpuIfhw/versions/jZpLvxa7/corpse-forge-1.20.1-1.0.17.jar'
+
+[update.modrinth]
+mod-id = 'WrpuIfhw'
+version = 'jZpLvxa7'

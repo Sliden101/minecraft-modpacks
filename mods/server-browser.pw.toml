@@ -1,0 +1,16 @@
+filename = 'ServerBrowser-1.20-FORGE-1.1.1.jar'
+name = 'Server Browser'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '67ff8b7242072d9bafb13a5f320b50baa6b25cb42aaa9bcf81af3e8ef5398f454d9d47a3c1be38b22ffd4e046fae696b156dd6e5c5d167a3d5112ea4c6a36a31'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/REH0O240/versions/CESARpWt/ServerBrowser-1.20-FORGE-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'REH0O240'
+version = 'CESARpWt'
