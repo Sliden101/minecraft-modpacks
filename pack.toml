@@ -1,5 +1,5 @@
-name = "packwiz Example Pack"
-author = "comp500"
+name = "Example Pack"
+author = "Sliden101"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
