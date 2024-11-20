@@ -1,16 +1,16 @@
-filename = 'revampedwolf-1.20.1-6.0.1.jar'
+filename = 'revampedwolf-1.20.1-5.0.0.jar'
 name = 'RevampedWolf'
 side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '6203b88280c57d571cdf34d8259e8db47efdf8aa05f568806093c2470aabbcf5c0888c03a823377c2e7d6a17bab6fc114c56d33148adcd32c4b026aa7145334c'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/AV4N1OZQ/versions/VPBthOgD/revampedwolf-1.20.1-6.0.1.jar'
+hash = 'f4d23d42dff3f5e0ddc39b6ab868d0d85ea3098f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'AV4N1OZQ'
-version = 'VPBthOgD'
+[update.curseforge]
+file-id = 4583581
+project-id = 399945

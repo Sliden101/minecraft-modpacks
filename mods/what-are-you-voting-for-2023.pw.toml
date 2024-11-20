@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'ddc6ae8146d7258cc2e993285e046d3b75c43932bcec9f331a8665479c324698ec3aad7f59e3f022e4db0010e44df69da08014fc6c3cedf1440dabaaac0f69f8'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/MmALiFwH/versions/aGgzILtB/whatareyouvotingfor2023-1.20.1-1.2.5.jar'
+hash = '629bae80c8c6e29c3c9d51b168966313b0bd9ac0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'MmALiFwH'
-version = 'aGgzILtB'
+[update.curseforge]
+file-id = 5421496
+project-id = 916844

@@ -1,16 +1,16 @@
 filename = 'cherishedworlds-forge-6.1.6+1.20.1.jar'
-name = 'Cherished Worlds'
-side = 'client'
+name = 'Cherished Worlds (Fabric/Forge/NeoForge/Quilt)'
+side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'd34ad1e258f3f32d408436778d7ae0cc502f8310e3fd9336fda5894fd530164e9d15a01083e81feaaca0408533685d493fbf5bd765f66484fc04d295085d004a'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/3azQ6p0W/versions/xLN2AayC/cherishedworlds-forge-6.1.6%2B1.20.1.jar'
+hash = '07dc81c2c36fd3686185eaa1668bf1e9a483e048'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = '3azQ6p0W'
-version = 'xLN2AayC'
+[update.curseforge]
+file-id = 5161389
+project-id = 308240

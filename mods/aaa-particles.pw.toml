@@ -1,16 +1,16 @@
 filename = 'aaa_particles-1.20.1-1.4.8-forge.jar'
 name = 'AAA Particles'
-side = 'client'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '618039adb23940302068aa9bcc0b9bfaa4087907522d9f32f519b3e8646e49103731090a717e687d642312401c233f7fce18bd90a500133d05941602079fdca9'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/En8uHTOK/versions/FqFiDhRL/aaa_particles-1.20.1-1.4.8-forge.jar'
+hash = '6c898e9799be179bd0e7a8536e53220db1f4a51e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'En8uHTOK'
-version = 'FqFiDhRL'
+[update.curseforge]
+file-id = 5874448
+project-id = 979809

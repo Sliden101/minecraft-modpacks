@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '4018cc4043e8b5b2b75544e797228818cda43d21467c48feb243a551864d2e5278e33a407c5b28b22eb7e3227f0fe88bbb888248655253e2f0aa8ad4f8bbaa94'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/DwaMaaW6/versions/Ma4xBkSW/v_slab_compat-1.20-2.4.jar'
+hash = '10189f38169b59f1908984f6d88f22054054502c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'DwaMaaW6'
-version = 'Ma4xBkSW'
+[update.curseforge]
+file-id = 5691543
+project-id = 724387

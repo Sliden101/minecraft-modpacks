@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'b4ac9bff7fbeecbbea06c25c727e4aa7d76cf05c81cae206414d8f49f34f2a307d951140e5be5ce39568a57e1e36f978e1967d2ef80d11bdef66591dda034467'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/UMmSTwE0/versions/uVqeOjPT/blossom-blade-1.2.jar'
+hash = '60de94121c90db74ca13e581dfdbf30a2054d022'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'UMmSTwE0'
-version = 'uVqeOjPT'
+[update.curseforge]
+file-id = 5190020
+project-id = 920268

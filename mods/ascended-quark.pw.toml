@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '93d3816c3aaca8fc153596d253a5f47efbdc3a883932da83de9ca0875c4231b5da53f949f9fd69b99709c7b4801e3e0cc07e74f2dcf185d26373f8b7c62150a9'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/SqIC1Dq9/versions/dPkcFvp6/ascended_quark-1.20.1-1.1.1.jar'
+hash = '59f27fbdfe75084c6fbb9e0666167158109f6acf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'SqIC1Dq9'
-version = 'dPkcFvp6'
+[update.curseforge]
+file-id = 5872635
+project-id = 971104

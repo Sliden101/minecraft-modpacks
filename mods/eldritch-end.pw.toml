@@ -3,14 +3,14 @@ name = 'Eldritch End'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '03a33f761fbb1c8aabc00c5d9c317d3199fc22a50702db43c140e19707595d206ae48c20544d53ad7d5b83c7ee165953b99cf6e9280b21fd5d5f4433d13d0483'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/nBaXIQY9/versions/ayvjjKl1/Eldritch_End-FORGE-MC1.20.1-0.3.2.jar'
+hash = '1d39a3ea61238aa7c3b547ee7ae8d8c4529c436a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'nBaXIQY9'
-version = 'ayvjjKl1'
+[update.curseforge]
+file-id = 5809305
+project-id = 877553

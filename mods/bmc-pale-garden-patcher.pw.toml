@@ -1,0 +1,16 @@
+filename = 'bmcpalegardenpatcher-0.1.0.jar'
+name = 'BMC Pale Garden "Datafixer"'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0c012245c2f944e8419f94c7b3b3ebaae267d810'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5898343
+project-id = 869750

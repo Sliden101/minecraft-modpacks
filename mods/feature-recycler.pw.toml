@@ -1,16 +1,16 @@
-filename = 'Feature-Recycler-forge-1.0.0.jar'
+filename = 'Feature-Recycler-forge-1.0.1.jar'
 name = 'Feature Recycler'
-side = 'server'
-x-prismlauncher-loaders = [ 'forge' ]
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'af48d9f56d5b20825dac7bf20ff4ce5d6900619b852f5f8c8fbcbfe342591870153ded25f564b99678fe3c38260ecd2c6779b894c53520c4c94010d232bab07e'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/IAzu52kG/versions/3FYH4FtT/Feature-Recycler-forge-1.0.0.jar'
+hash = '09cc3ac393731861427da593a54fe5628d44eab7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'IAzu52kG'
-version = '3FYH4FtT'
+[update.curseforge]
+file-id = 5610347
+project-id = 1077985

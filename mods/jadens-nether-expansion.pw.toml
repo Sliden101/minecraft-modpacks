@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '478be818fbb301b6d3306cba1cd86c1d8e6f5b78c55c45e65709e4e7c3aacd346d97a1a163274f47f91dd08a589b1eb733f4a79978a6848f6a7d2a8aa2107949'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/v3UlehfS/versions/qphVrW2u/Jadens-Nether-Expansion-2.1.0-Forge.jar'
+hash = '5492fb8ca31a111823d0f00658993a32691bc508'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'v3UlehfS'
-version = 'qphVrW2u'
+[update.curseforge]
+file-id = 5845326
+project-id = 1111833

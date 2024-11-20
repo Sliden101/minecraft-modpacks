@@ -1,16 +1,16 @@
-filename = 'justenoughbreeding-neoforge-1.20.1-1.4.1.jar'
+filename = 'justenoughbreeding-forge-1.20.x-1.4.1.jar'
 name = 'Just Enough Breeding (JEBr)'
-side = 'client'
+side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '8d2547132612a4fb1bdcdf5487b2652314396ab7f89362ca418396dfba3606a70fec3f398db20917decacf682103db6416aeb2e7402bd36131c2492b7e15936d'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/9Pk89J3g/versions/iJCWFXEr/justenoughbreeding-neoforge-1.20.1-1.4.1.jar'
+hash = 'a27793c76281c04b427d8631525123bfb7fa4f41'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = '9Pk89J3g'
-version = 'iJCWFXEr'
+[update.curseforge]
+file-id = 5824212
+project-id = 899386

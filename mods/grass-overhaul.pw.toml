@@ -1,16 +1,16 @@
 filename = 'Grass_Overhaul-Forge-23.10.10-MC1.20.1.jar'
-name = 'Grass Overhaul'
+name = 'Grass Overhaul (Sod)'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '1c00da8341dec3971ca92e532eed033e8e8de6909b19db31c1d20271f16566250d32176700f3f3d1387f5abb648dc473ae7fba5a424dce9c450d8644b8fe8859'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Eeb4VkF6/versions/BzzztYdh/Grass_Overhaul-Forge-23.10.10-MC1.20.1.jar'
+hash = '469b2a7ca65c52b1f7692e8f02885430d1107420'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'Eeb4VkF6'
-version = 'BzzztYdh'
+[update.curseforge]
+file-id = 4791837
+project-id = 640973

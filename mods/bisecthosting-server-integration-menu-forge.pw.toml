@@ -1,0 +1,16 @@
+filename = 'BHMenu-Forge-1.20.1-2.4.2.jar'
+name = 'BisectHosting Server Integration Menu [FORGE]'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '404a71130bf34c8c71964b56adcf78854d37652c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5761805
+project-id = 585546

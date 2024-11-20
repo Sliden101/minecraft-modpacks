@@ -1,0 +1,16 @@
+filename = 'palegarden-1.0.5-forge-1.20.1.jar'
+name = 'Pale Garden and Creaking'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd54e84209659445fb69acd4e86b38a35acb9b420'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5879257
+project-id = 1111659

@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'fcf07f31002893a0b4e2ee808bfea064bb1b719b67215232e04aa4db89707b7e2bd824539fa98d2a63531cf4d3835799eddbadd5005bfeba7b735e3574d8a58e'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/HY0PMpa3/versions/OrJZiFic/AutochefsDelight-1.20.1-Forge-1.0.5.jar'
+hash = '1bcbe3cc1bbf45b78bd2151cb3c0a7f0a3a87af8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'HY0PMpa3'
-version = 'OrJZiFic'
+[update.curseforge]
+file-id = 5828432
+project-id = 964282

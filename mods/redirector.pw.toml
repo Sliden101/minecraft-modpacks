@@ -1,5 +1,5 @@
 filename = 'redirector-5.0.0.jar'
-name = 'Redirector'
+name = 'Redirector [Modern]'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [
@@ -22,11 +22,11 @@ x-prismlauncher-mc-versions = [
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '5868bb4294e129e49ee22ce7a5e5f66f45f2aa8cd96f1898bada7f5a89d9f6f98e6153ad7fec6ee3933d6912167597b8eee553c811107b5c969e065ce9090df1'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/nzRWPE5v/versions/HLEQA98f/redirector-5.0.0.jar'
+hash = 'd2e56f6ba60b8841a98b61093d9f187d7a2b8c5d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'nzRWPE5v'
-version = 'HLEQA98f'
+[update.curseforge]
+file-id = 5067394
+project-id = 877289
