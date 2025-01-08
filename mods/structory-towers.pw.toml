@@ -1,16 +1,13 @@
-filename = 'Structory_Towers_1.20.x_v1.0.7.jar'
-name = 'Structory: Towers'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric', 'quilt' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
-x-prismlauncher-release-type = 'release'
+name = "Structory: Towers"
+filename = "Structory_Towers_1.20.x_v1.0.7.jar"
+side = "both"
 
 [download]
-hash = 'fa147459b82e1c0a774c19b598a55a9ca0d7b0ef'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "fa147459b82e1c0a774c19b598a55a9ca0d7b0ef"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5351596
 project-id = 783522

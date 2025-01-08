@@ -1,16 +1,13 @@
-filename = 'continuity-3.0.0-beta.5+1.20.1.jar'
-name = 'Continuity'
-side = 'client'
-x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Continuity"
+filename = "continuity-3.0.0+1.20.1.forge.jar"
+side = "both"
 
 [download]
-hash = '15ad75d51f567c69308b91223454bacfd2eda7a5'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "816c1bb15c3686f67143dabced87bd4811cc43d2"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 5344958
+file-id = 5981334
 project-id = 531351

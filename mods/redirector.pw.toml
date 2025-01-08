@@ -1,32 +1,13 @@
-filename = 'redirector-5.0.0.jar'
-name = 'Redirector [Modern]'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [
-    '1.16.5',
-    '1.17.1',
-    '1.18',
-    '1.18.1',
-    '1.18.2',
-    '1.19',
-    '1.19.1',
-    '1.19.2',
-    '1.19.3',
-    '1.19.4',
-    '1.20',
-    '1.20.1',
-    '1.20.2',
-    '1.20.3',
-    '1.20.4'
-]
-x-prismlauncher-release-type = 'release'
+name = "Redirector [Modern]"
+filename = "redirector-5.0.0.jar"
+side = "both"
 
 [download]
-hash = 'd2e56f6ba60b8841a98b61093d9f187d7a2b8c5d'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "d2e56f6ba60b8841a98b61093d9f187d7a2b8c5d"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5067394
 project-id = 877289

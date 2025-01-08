@@ -1,16 +1,13 @@
-filename = 'Boat-Item-View-Forge-1.20.1-0.0.5.jar'
-name = 'Boat Item View (Forge)'
-side = 'client'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
-x-prismlauncher-release-type = 'release'
+name = "Boat Item View (Forge/Neoforge)"
+filename = "Boat-Item-View-Forge-1.20.1-0.0.5.jar"
+side = "both"
 
 [download]
-hash = '8367bf496550dff3c9ed957df134201d550700fc'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "8367bf496550dff3c9ed957df134201d550700fc"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 4590982
 project-id = 482444

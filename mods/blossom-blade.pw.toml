@@ -1,16 +1,13 @@
-filename = 'blossom.jar'
-name = 'Blossom Blade'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge', 'fabric', 'quilt' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
-x-prismlauncher-release-type = 'release'
+name = "Blossom Blade"
+filename = "blossom.jar"
+side = "both"
 
 [download]
-hash = '60de94121c90db74ca13e581dfdbf30a2054d022'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "60de94121c90db74ca13e581dfdbf30a2054d022"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5190020
 project-id = 920268

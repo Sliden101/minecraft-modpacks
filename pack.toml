@@ -1,12 +1,12 @@
-name = "Better Minecraft Fixed"
-author = "Sliden101"
-version = "1.0.0"
+name = "Better MC [FORGE] BMC4"
+author = "LunaPixelStudios"
+version = "v36"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c1e56e06957aa9eb33bd555bb032ef4e0685887e16d6c7727c7cfe83c8823d4c"
+hash = "46de85336cdf5f1615bed87c3f9b47c48b0fbee557c013469bdc1becf7617da0"
 
 [versions]
 forge = "47.3.12"

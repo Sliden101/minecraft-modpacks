@@ -1,16 +1,13 @@
-filename = 'Jadens-Nether-Expansion-2.1.0-Forge.jar'
 name = "Jaden's Nether Expansion"
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+filename = "Jadens-Nether-Expansion-2.2.0.jar"
+side = "both"
 
 [download]
-hash = '5492fb8ca31a111823d0f00658993a32691bc508'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "f4b22b30fff8eb09187dc74e312ffec35a9a6cde"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 5845326
+file-id = 6039343
 project-id = 1111833

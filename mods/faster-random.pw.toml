@@ -1,37 +1,13 @@
-filename = 'fasterrandom-5.1.0.jar'
-name = 'Faster Random'
-side = 'both'
-x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
-x-prismlauncher-mc-versions = [
-    '1.19',
-    '1.19.1',
-    '1.19.2',
-    '1.19.3',
-    '1.19.3-Snapshot',
-    '1.19.4',
-    '1.19.4-Snapshot',
-    '1.20',
-    '1.20-Snapshot',
-    '1.20.1',
-    '1.20.2',
-    '1.20.2-Snapshot',
-    '1.20.3',
-    '1.20.3-Snapshot',
-    '1.20.4',
-    '1.20.5',
-    '1.20.5-Snapshot',
-    '1.20.6',
-    '1.21',
-    '1.21-Snapshot'
-]
-x-prismlauncher-release-type = 'release'
+name = "Faster Random"
+filename = "fasterrandom-5.1.0.jar"
+side = "both"
 
 [download]
-hash = '440720daaf51d5ad88a96ed59e1f59c63fad3f73'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "440720daaf51d5ad88a96ed59e1f59c63fad3f73"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5559269
 project-id = 912121

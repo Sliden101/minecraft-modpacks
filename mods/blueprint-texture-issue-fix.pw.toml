@@ -1,16 +1,13 @@
-filename = 'blueprintfix-forge-1.0.0-1.20.1.jar'
-name = 'Blueprint Texture Issue Fix'
-side = 'client'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Blueprint Texture Issue Fix"
+filename = "blueprintfix-forge-1.0.0-1.20.1.jar"
+side = "both"
 
 [download]
-hash = '95568c3ffac58b666d444c182a2662e1ac8288c9'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "95568c3ffac58b666d444c182a2662e1ac8288c9"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5688206
 project-id = 1095995

@@ -1,16 +1,13 @@
-filename = 'Hearths v1.0.1 f12-48.jar'
-name = 'Hearths'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.19.4', '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6', '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Hearths"
+filename = "Hearths v1.0.2 f12-61.jar"
+side = "both"
 
 [download]
-hash = '40f280ffb0b4c797d7e31536b74b92e2bfc30ef4'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "045a83aeb91f576d4feb92f9fe89d15f04840bd2"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 5454566
+file-id = 6006043
 project-id = 880814

@@ -1,16 +1,13 @@
-filename = 'XaeroPlus-2.24.5+forge-1.20.1-WM1.39.0-MM24.6.1.jar'
-name = 'XaeroPlus'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "XaeroPlus"
+filename = "XaeroPlus-2.25+forge-1.20.1-WM1.39.2-MM24.7.1.jar"
+side = "both"
 
 [download]
-hash = 'f7e1b0c719f68a02a7e74ec8d9560fb7569de5d1'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "b61bed5ead46a9ac8d4fb5deda7474176f123279"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 5863820
+file-id = 6031518
 project-id = 866084

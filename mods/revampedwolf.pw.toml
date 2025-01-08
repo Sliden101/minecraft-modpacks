@@ -1,16 +1,13 @@
-filename = 'revampedwolf-1.20.1-5.0.0.jar'
-name = 'RevampedWolf'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "RevampedWolf"
+filename = "revampedwolf-1.20.1-6.0.2.jar"
+side = "both"
 
 [download]
-hash = 'f4d23d42dff3f5e0ddc39b6ab868d0d85ea3098f'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "0f47b3433c8bd4a269b9e59d00f73f90fa085d8d"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 4583581
+file-id = 6004797
 project-id = 399945

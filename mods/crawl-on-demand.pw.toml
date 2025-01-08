@@ -1,16 +1,13 @@
-filename = 'crawlondemand-1.20.x-1.0.0.jar'
-name = 'Crawl on Demand'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20-Snapshot', '1.20.1', '1.20.2-Snapshot' ]
-x-prismlauncher-release-type = 'release'
+name = "Crawl on Demand"
+filename = "crawlondemand-1.20.x-1.0.0.jar"
+side = "both"
 
 [download]
-hash = '7bffbea57618b126c639894f51ddf9ef1d80a252'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "7bffbea57618b126c639894f51ddf9ef1d80a252"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 4706940
 project-id = 876210

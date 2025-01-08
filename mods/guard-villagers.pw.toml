@@ -1,16 +1,13 @@
-filename = 'guardvillagers-1.20.1-1.6.7.jar'
-name = 'Guard Villagers'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Guard Villagers"
+filename = "guardvillagers-1.20.1-1.6.9.jar"
+side = "both"
 
 [download]
-hash = '7bfe6f938dc1d44f79110aaab474e03ed41d734d'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "8aa2c1cc11c3ad26f3555363d52f639dcc551334"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 5619709
+file-id = 6020730
 project-id = 360203

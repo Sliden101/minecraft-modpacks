@@ -1,16 +1,13 @@
-filename = 'structure_gel-1.20.1-2.16.2.jar'
-name = 'Structure Gel API'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Structure Gel API"
+filename = "structure_gel-1.20.1-2.16.2.jar"
+side = "both"
 
 [download]
-hash = 'ec8c59d2a69eca3249a8da673f572b40b6d59895'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "ec8c59d2a69eca3249a8da673f572b40b6d59895"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5278429
 project-id = 378802

@@ -1,16 +1,13 @@
-filename = 'supplementaries-1.20-3.1.6.jar'
-name = 'Supplementaries'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Supplementaries"
+filename = "supplementaries-1.20-3.1.11.jar"
+side = "both"
 
 [download]
-hash = '9ba914f5e9421a19c0a6797e10167f65b6cca50e'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "1905d2cba085e123bd4ead46b0d6cf425f6ec16a"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 5900209
+file-id = 5948497
 project-id = 412082

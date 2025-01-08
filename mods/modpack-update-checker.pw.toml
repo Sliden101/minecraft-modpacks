@@ -1,16 +1,13 @@
-filename = 'modpack-update-checker-1.20.1-forge-0.15.2.jar'
-name = 'Modpack Update Checker'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
+name = "Modpack Update Checker"
+filename = "modpack-update-checker-1.20.1-forge-0.15.3.jar"
+side = "both"
 
 [download]
-hash = '0b2961b585ae31da57e1920b62c4d1104ea9ea55'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "732b4d4738b2d714ea630991c1fd2c488fdef24f"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 5617270
+file-id = 5929926
 project-id = 847414
