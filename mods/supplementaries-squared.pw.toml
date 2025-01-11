@@ -1,0 +1,16 @@
+filename = 'suppsquared-1.20-1.1.16.jar'
+name = 'Supplementaries Squared'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '49f8dea1fb59e1c427392e72d332e7ab70bf0a84b6430413be9513cab7299d248c8f9f9bb2832cbb9971b40ecd3f04c7c78ffbb915b7ff1ffe2c57ddc3d1df59'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dCCkNFwE/versions/epDSxpGy/suppsquared-1.20-1.1.16.jar'
+
+[update.modrinth]
+mod-id = 'dCCkNFwE'
+version = 'epDSxpGy'

@@ -1,0 +1,16 @@
+filename = 'modpack-update-checker-1.20.1-forge-0.15.2.jar'
+name = 'Modpack Update Checker'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '1f4341d144ee8f744052e04cfa73a8390548c53ead79dcc37f3e7a465e9704b2a90e95e9347e7c5e661e5e7575186d8e8f20fee0e005c3c0a88b48e059b2ae0e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rR4tY6Cw/versions/opgrCW9p/modpack-update-checker-1.20.1-forge-0.15.2.jar'
+
+[update.modrinth]
+mod-id = 'rR4tY6Cw'
+version = 'opgrCW9p'

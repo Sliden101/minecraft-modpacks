@@ -1,0 +1,16 @@
+filename = 'wither_spawn_fix-1.0.0.jar'
+name = 'Wither Spawn Fix'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bb10745a037afc5a5aa649595b7ad74fab0026a6da55f7ca02424c0a0e9c429967c62c0b1c431fa53749227878c7832306ad3b2b3c2887844e01fc07de84feaf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KseM6VIg/versions/VaPsIU7w/wither_spawn_fix-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'KseM6VIg'
+version = 'VaPsIU7w'
