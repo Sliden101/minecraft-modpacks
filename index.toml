@@ -17262,18 +17262,8 @@ hash = "ae215e40d0cde8796ee6a7543d641cd9c4225d5637053ebe0acc0596f38d78a4"
 metafile = true
 
 [[files]]
-file = "mods/bisecthosting-server-integration-menu-forge.pw.toml"
-hash = "950f4ae65aa902fc0f05d4976666c133fc7a377d9a8a195e37cae3a98b4f520e"
-metafile = true
-
-[[files]]
 file = "mods/blossom-blade.pw.toml"
 hash = "89cf2752e6ae71cfeac2f6e1a9a6b4f7fc73c5b0bb32d1518338aef19010a74c"
-metafile = true
-
-[[files]]
-file = "mods/blue-skies.pw.toml"
-hash = "6836b52a7002d343072a72dcb1f3370ff8ecdda43ea6499cb0f1b1892b5fe7a3"
 metafile = true
 
 [[files]]
@@ -18403,11 +18393,6 @@ metafile = true
 [[files]]
 file = "mods/the-conjurer.pw.toml"
 hash = "067cd6fc07e46ebe6c74858b3d14123af8e010082d1331fe489f4f212ac273f9"
-metafile = true
-
-[[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
 metafile = true
 
 [[files]]
