@@ -6,7 +6,7 @@ side = "both"
 hash-format = "sha1"
 hash = "92690482dad46a8c9cf28e4b6b26e49f4dc67095"
 mode = 'url'
-url = 'https://pub-76ed360952c04f37a61c7368a7a8ccde.r2.dev/mods/AetherVillages-1.20.1-1.0.7-forge.jar'
+url = 'https://pub-76ed360952c04f37a61c7368a7a8ccde.r2.dev/mods/KryptonReforged-0.2.3.jar'
 
 [update]
 [update.curseforge]
