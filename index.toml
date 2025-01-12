@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/flux-networks.pw.toml"
-hash = "de63df967225278681e18afe0e323110322ec02006746980fbe77dbd974b20b3"
+hash = "0c7888f39e293cf39c678390fad6821b0c0c737ac8eca5c7373d1ca5f63bf0ee"
 metafile = true
 
 [[files]]
@@ -832,12 +832,12 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "16c4fbbf63e8f7943cc52c30d42ca270a6941135d3af5b29b6e598debec32b22"
+hash = "dbfaf9e4a369563635f0750137674263ae7cac8277a09ddc8fd5126b5a90f5ad"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "836f092821571bdd68d97dfa21f4a1343fe69d0e1707148fdf139e47961c7522"
+hash = "f98fbb54a0355f8260d231eae0a21b223c7a5c1fa89e871eabffa3a2a7c955cc"
 metafile = true
 
 [[files]]
