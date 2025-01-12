@@ -111,11 +111,6 @@ hash = "de8483ec996bb9ebffcbb4ffc17e25d46ce430b77bd6f88650a66cd032406bc1"
 metafile = true
 
 [[files]]
-file = "mods/backpacked.pw.toml"
-hash = "98317eb2b124a73f727c1756e1dc1cdbda4c43955421d3e0e3ad0b3f663635fe"
-metafile = true
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "5b4a0790554a4501dbc661c6acb51c92d2e6b4d48452cb9ff84444dadf429ae1"
 metafile = true
@@ -767,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton-reforged.pw.toml"
-hash = "98d23ffae35e634b1fc978a7802e257bbd526dd460afbe7788b678221239fca4"
+hash = "7f29472536a602633efe28ad7bd7716fbedac1ffa0e083ec53e18ab2bc2b64f3"
 metafile = true
 
 [[files]]
@@ -807,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/long-nbt-killer.pw.toml"
-hash = "adb5b674b7858b20654c41f176e55f2e1598bd2ad9549e82bf4b2820b3590848"
+hash = "1226f468dc8479d07f0b7782e2cbf9c1cefd85baca76fdfab56f3958cded8a83"
 metafile = true
 
 [[files]]
@@ -958,11 +953,6 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "6976cde66a2517e4a7959ade0d3c244b2ed61248a8419bae397809c02ad31905"
-metafile = true
-
-[[files]]
-file = "mods/paintings.pw.toml"
-hash = "4111500488d90a4a2bec54d87c8301fb8fdbaa2d8f21db80e03b88145b7cd51c"
 metafile = true
 
 [[files]]
@@ -1193,11 +1183,6 @@ metafile = true
 [[files]]
 file = "mods/the-conjurer.pw.toml"
 hash = "35ceaf401c9ea9273334f7501abc34d338e36eb5b1179cca3d963afd05801911"
-metafile = true
-
-[[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "aefa44ba83012bd47bfd012b0f5ce8f0448cb333b6966773ab00fb5f11595e68"
 metafile = true
 
 [[files]]
