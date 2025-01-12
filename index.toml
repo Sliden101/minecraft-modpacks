@@ -131,38 +131,8 @@ hash = "77d4c90bf80df19ce5329a95f9be63c9340ac0304dee59d8b9aedaf7ac25d1cc"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "0b2b0cd35f50bdb09e4af85446e9b7267f33d966fd25a9c204a33edf2d2c80d2"
-metafile = true
-
-[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "70b356918cf46bb68e415a5bb003f0535344861b173e2e6cbd7648d9b68b09e5"
-metafile = true
-
-[[files]]
-file = "mods/better-compatibility-checker.pw.toml"
-hash = "c1d1585afe1917683c9132a4df0dc173fd28bb0f2dc3e2316e6e56e5a4e7bce8"
-metafile = true
-
-[[files]]
-file = "mods/better-mods-button.pw.toml"
-hash = "f575bf8398b26077f582356a84eb98f8f97f03519749109e6ec4225bf74735c0"
-metafile = true
-
-[[files]]
-file = "mods/betterend-crashed-ships-tweaks.pw.toml"
-hash = "660da68fd67df9f4e5170991268a02cac05244af1aeb6adfd6c21a36c5bb7e46"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "253a2be41ec40c113693fc4d100316a873746ed6484da973a869e4838cdf8f1f"
-metafile = true
-
-[[files]]
-file = "mods/betternether.pw.toml"
-hash = "4fd72203c28612e39ed9297b6af8630375f26352007cc83f5102822b3627a892"
 metafile = true
 
 [[files]]
