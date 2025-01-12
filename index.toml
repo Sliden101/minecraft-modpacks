@@ -541,11 +541,6 @@ hash = "b8e477371ad433c572ebec610c8d3d09adfb7db6e03deef8f62376cc71c56e57"
 metafile = true
 
 [[files]]
-file = "mods/flux-networks.pw.toml"
-hash = "0c7888f39e293cf39c678390fad6821b0c0c737ac8eca5c7373d1ca5f63bf0ee"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-screens.pw.toml"
 hash = "01bc1eb9dc3e62eac7922f04d57688c815b3bd2ea11050fac1c9c74ee17847ae"
 metafile = true
@@ -832,12 +827,12 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "dbfaf9e4a369563635f0750137674263ae7cac8277a09ddc8fd5126b5a90f5ad"
+hash = "19afec92ca63d9dfbe9cecac8e33364a6a193d655f6341cb693b9a933880520a"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "f98fbb54a0355f8260d231eae0a21b223c7a5c1fa89e871eabffa3a2a7c955cc"
+hash = "cf269b34aad2ad418d1488acb8feef4125bb17fc0f3dab819222e610ac66c5e2"
 metafile = true
 
 [[files]]
