@@ -1076,11 +1076,6 @@ hash = "91aeb005845af72378fd1939f7a0cf3ae986c26f9fe1fa85257250fdf681f90d"
 metafile = true
 
 [[files]]
-file = "mods/shield-expansion.pw.toml"
-hash = "e14db2953fffcc4cb00b25c2618d73a6a50911bb88cf7a7ef40f0ec6e1b91c3c"
-metafile = true
-
-[[files]]
 file = "mods/simple-planes.pw.toml"
 hash = "708e72fdde02979987118bdfb9b2c65be916059598cca9935c050653a090e3bb"
 metafile = true
