@@ -21,6 +21,11 @@ hash = "da9f6ed8cf02b07a1f12ddebe4ef2f3234c91d945d96f49bc7c0fe6519421918"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "ede64c0b2041a6ea24b1406891e18ecd8210f517433a6ee26b82378e06d4abc0"
+metafile = true
+
+[[files]]
 file = "mods/aeroblender.pw.toml"
 hash = "435f3b79656604d4f7650be7069ab1ee15b30e0efb9502792e17e144d5d04854"
 metafile = true
@@ -436,6 +441,11 @@ hash = "8628656c830d42ad54b9fae90a75e3ac4a47c49785742ad47cf54a47821a49ba"
 metafile = true
 
 [[files]]
+file = "mods/enderio.pw.toml"
+hash = "65419215704570660e318d8188fa1de6b70f16f316081006945ccf8f7ddde334"
+metafile = true
+
+[[files]]
 file = "mods/enders-delight.pw.toml"
 hash = "0d6a00b318502d3d422a8179b0de488e4b31382f853cabcb26a7e4f63ffed7ad"
 metafile = true
@@ -528,6 +538,11 @@ metafile = true
 [[files]]
 file = "mods/flib.pw.toml"
 hash = "b8e477371ad433c572ebec610c8d3d09adfb7db6e03deef8f62376cc71c56e57"
+metafile = true
+
+[[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "de63df967225278681e18afe0e323110322ec02006746980fbe77dbd974b20b3"
 metafile = true
 
 [[files]]

@@ -5,7 +5,8 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "6bc9fc9bb1fc5859d9d569ce8a1d9746476c1b3c"
-mode = "metadata:curseforge"
+mode = 'url'
+url = 'https://pub-76ed360952c04f37a61c7368a7a8ccde.r2.dev/mods/Mekanism-1.20.1-10.4.13.69.jar'
 
 [update]
 [update.curseforge]
