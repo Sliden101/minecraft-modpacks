@@ -1,0 +1,14 @@
+name = "Paintings ++"
+filename = "Paintings-fabric-1.20.1-11.0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bd3faadb9b2999b64532a75ddd89773be9ebdcda"
+mode = 'url'
+url = 'https://pub-76ed360952c04f37a61c7368a7a8ccde.r2.dev/mods/AetherVillages-1.20.1-1.0.7-forge.jar'
+
+[update]
+[update.curseforge]
+file-id = 5196037
+project-id = 252042

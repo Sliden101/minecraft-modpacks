@@ -1,0 +1,14 @@
+name = "Backpacked"
+filename = "backpacked-forge-1.20.1-3.0.0-beta.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "afd733b5d589520d7698ec1bf1afb39f03e0d740"
+mode = 'url'
+url = 'https://pub-76ed360952c04f37a61c7368a7a8ccde.r2.dev/mods/AetherVillages-1.20.1-1.0.7-forge.jar'
+
+[update]
+[update.curseforge]
+file-id = 5813547
+project-id = 352835

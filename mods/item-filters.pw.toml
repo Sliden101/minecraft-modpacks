@@ -1,0 +1,14 @@
+name = "Item Filters"
+filename = "item-filters-forge-2001.1.0-build.59.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "55a7f032c59489eca96069a7841601de2ff97590"
+mode = 'url'
+url = 'https://pub-76ed360952c04f37a61c7368a7a8ccde.r2.dev/mods/item-filters-forge-2001.1.0-build.59.jar'
+
+[update]
+[update.curseforge]
+file-id = 4838266
+project-id = 309674

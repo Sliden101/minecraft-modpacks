@@ -1,0 +1,14 @@
+name = "Umbral Skies"
+filename = "umbral_skies-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "32053655c876fdc1aef7ec38f8a75019238b3938"
+mode = 'url'
+url = 'https://pub-76ed360952c04f37a61c7368a7a8ccde.r2.dev/mods/AetherVillages-1.20.1-1.0.7-forge.jar'
+
+[update]
+[update.curseforge]
+file-id = 4768252
+project-id = 855821

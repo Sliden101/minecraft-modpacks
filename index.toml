@@ -41,6 +41,11 @@ hash = "fb45892953f7a3249e8ac97ad06f7cf6eb2c76aaece08fadf7756b87b67d013d"
 metafile = true
 
 [[files]]
+file = "mods/aether-villages.pw.toml"
+hash = "3bb5d5d9f6274ed45421c34424410b74490237bfa19edbf539c9f9b4bd6c8b10"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "314e6d2843d71c46b4f8b8cde78df92b4cc7ff61dad816c6dc2cd336f02e6bfb"
 metafile = true
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "9d71e99dd453e2dbb6423cf83d05efaf1475b09060c7a6fa2f6643d70e7ad455"
+metafile = true
+
+[[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "d9b156437b1a7a27f2680344372b9a93c9aba9332c424ae460a3f032b483a283"
 metafile = true
 
 [[files]]
@@ -98,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/azurelib.pw.toml"
 hash = "de8483ec996bb9ebffcbb4ffc17e25d46ce430b77bd6f88650a66cd032406bc1"
+metafile = true
+
+[[files]]
+file = "mods/backpacked.pw.toml"
+hash = "98317eb2b124a73f727c1756e1dc1cdbda4c43955421d3e0e3ad0b3f663635fe"
 metafile = true
 
 [[files]]
@@ -151,6 +166,11 @@ hash = "4fd72203c28612e39ed9297b6af8630375f26352007cc83f5102822b3627a892"
 metafile = true
 
 [[files]]
+file = "mods/biome-music.pw.toml"
+hash = "940e7ecb885a639093e88678a1a47c242d368a284eda065d005efe5441a92d6a"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "93a5d756a7a93adcd4e93343416a7080e43544a6ce0066dd445a7e3335dc1239"
 metafile = true
@@ -166,8 +186,18 @@ hash = "eee3a50b2b400d40eb79f8d72f5f38a53f9d2953fb5d340cc9fa9c2062ff851e"
 metafile = true
 
 [[files]]
+file = "mods/blueprint-texture-issue-fix.pw.toml"
+hash = "228094cbc057c74c8e3dfe8560833cdbd4651caa238b4e12d0f6c44bd59c7961"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "2b4ad4393762e016b32383a73b819a2f30cc84e5a5f36b84008de51a04e276d8"
+metafile = true
+
+[[files]]
+file = "mods/bmc-pale-garden-patcher.pw.toml"
+hash = "ad8901fd7ac3d7898c5773a848626c3af8e4dfcff03b67c7e1bdd8d26c1eff29"
 metafile = true
 
 [[files]]
@@ -233,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "4e80188fd31d68161ffdffa3f553026e4f58d5cacf339e82241504e3cd039aad"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "3c7dd4125ed3817ded7359c8fb97ebc9e98e932965c90d5fbb19654842df69aa"
 metafile = true
 
 [[files]]
@@ -343,6 +378,16 @@ metafile = true
 [[files]]
 file = "mods/delightful.pw.toml"
 hash = "a0a715cb1e4bb4af2a7c14d88190c7ade3ed7b2584542159cb886b7cb16b90a2"
+metafile = true
+
+[[files]]
+file = "mods/despawntweaker.pw.toml"
+hash = "06b49cb11c30f4a2ff8a2fad33f47c1899737b633089d350c605b9b1385e4507"
+metafile = true
+
+[[files]]
+file = "mods/deuf-duplicate-entity-uuid-fix.pw.toml"
+hash = "0c239177412851a2185db7acfe8831ee048a69c1940fab34d47e121e8e52d845"
 metafile = true
 
 [[files]]
@@ -466,6 +511,11 @@ hash = "e3bf68534a6904591a4dc664d94ea4bb2dffbcb2e4aeac9a0f8b87541cdc6012"
 metafile = true
 
 [[files]]
+file = "mods/farmers-structures.pw.toml"
+hash = "ec22388abb5a9bfbcfe49a1492787d62a9fd4393c4a10be9d583c898f7b197bf"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "2e09d98dc1cd373bbe9082ba1b623f785812b3cb2346bfd9ac11fc75747a337d"
 metafile = true
@@ -516,8 +566,33 @@ hash = "b5370591753bb380fe19bf6978669415fb5753387c849e35b414dbdb77bd4ce2"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "5a49d1cb3673e602b80bca22dc340fe0b80126b3ae4ef89b28dffa60c15844a8"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "1b6d39286a6aeb167782417d0512a81b21bffe7f253c9701d53fdbc4a354654a"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "5cacc8f7c0873ca4d697a7c9c3b09adf8efb363acd0453db13f796f786c2cf54"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "f15e5f896f3c22f9af65e6ac8021fe3abd363e15a0c3944003ea87f98935275a"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "369ab869ce60ec03815e371fcfff9005435fe519665c66d79ff01d98b68260e1"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "2526847c2ad3393dd1da260f55130baaaf09bd54eb8144a10405bb8ffe0a884a"
 metafile = true
 
 [[files]]
@@ -553,6 +628,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "555ceadefb0c705cb20b35e681befac3b9b20ab5e94d008ae520da1c3bafa587"
+metafile = true
+
+[[files]]
+file = "mods/goblin-traders.pw.toml"
+hash = "5019deb0119890fe5c900d8792decb91110c21bbb25c2fed00c833996f1f9cb4"
 metafile = true
 
 [[files]]
@@ -601,6 +681,11 @@ hash = "a9264f182ac110bcce5393c5301183110f560c5bbc17a6f137f89c54f8afab05"
 metafile = true
 
 [[files]]
+file = "mods/inventory-hud-forge.pw.toml"
+hash = "629a7344d4d0ae972074827e07d7ae1beb320d46cbb08301e39e164e7e5db77f"
+metafile = true
+
+[[files]]
 file = "mods/inventory-management.pw.toml"
 hash = "e19a88306538222f366c1d1ee219a83cca16a2768ad86671a32b3e5bb9cab00d"
 metafile = true
@@ -608,6 +693,11 @@ metafile = true
 [[files]]
 file = "mods/it-takes-a-pillage.pw.toml"
 hash = "b9a1545ceb65017e9096e39e18ba3b246e35c8bd133c75fe943074438db47c27"
+metafile = true
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+hash = "d6dcc0ee5c73b791ce78ace811f9b1d095691a861ee82774b160a056db664d98"
 metafile = true
 
 [[files]]
@@ -676,6 +766,11 @@ hash = "e0c6ce8408964b6a0e95b5e4a59930fab5717e6afa011e74398fede0e0c2c3a3"
 metafile = true
 
 [[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "98d23ffae35e634b1fc978a7802e257bbd526dd460afbe7788b678221239fca4"
+metafile = true
+
+[[files]]
 file = "mods/l_enders-cataclysm.pw.toml"
 hash = "78a2c690d84808ac5826d3793fcef1adac7ee26527fa5f638257226372b9d46b"
 metafile = true
@@ -708,6 +803,11 @@ metafile = true
 [[files]]
 file = "mods/log-begone.pw.toml"
 hash = "0e55c5a35560fa0dc2282e5f2ec31fa035d8e3db8396ed75cdd127461927c67d"
+metafile = true
+
+[[files]]
+file = "mods/long-nbt-killer.pw.toml"
+hash = "adb5b674b7858b20654c41f176e55f2e1598bd2ad9549e82bf4b2820b3590848"
 metafile = true
 
 [[files]]
@@ -858,6 +958,16 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "6976cde66a2517e4a7959ade0d3c244b2ed61248a8419bae397809c02ad31905"
+metafile = true
+
+[[files]]
+file = "mods/paintings.pw.toml"
+hash = "4111500488d90a4a2bec54d87c8301fb8fdbaa2d8f21db80e03b88145b7cd51c"
+metafile = true
+
+[[files]]
+file = "mods/pale-garden.pw.toml"
+hash = "df06bf0dc0a729533f460efd245d354b56787447b5443f3c2d81c41b8bb3981f"
 metafile = true
 
 [[files]]
@@ -1086,6 +1196,11 @@ hash = "35ceaf401c9ea9273334f7501abc34d338e36eb5b1179cca3d963afd05801911"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "aefa44ba83012bd47bfd012b0f5ce8f0448cb333b6966773ab00fb5f11595e68"
+metafile = true
+
+[[files]]
 file = "mods/tips.pw.toml"
 hash = "75d2718863f97a63de3574fe980b35b3cdc7099ec0881f50338644656651258c"
 metafile = true
@@ -1111,8 +1226,18 @@ hash = "59c2d4fe5935158e4fb4a370a55b259a56440090873a1a1ab7e415184d9f1d2d"
 metafile = true
 
 [[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "1ac6d88390cd7d542d2670987d97f2665c4039ff8020df9ab2d0c6f27d1bd7a5"
+metafile = true
+
+[[files]]
 file = "mods/twigs.pw.toml"
 hash = "1360439728730381b7b8ee55caa46b480f5f74f6a37403ae5d1535d65b71c3b3"
+metafile = true
+
+[[files]]
+file = "mods/umbral-skies.pw.toml"
+hash = "14d04ac395b5bf86dacc358f6a6dd40057143eb8730a02a8d0203f863d01b57a"
 metafile = true
 
 [[files]]

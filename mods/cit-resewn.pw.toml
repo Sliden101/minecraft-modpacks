@@ -1,0 +1,14 @@
+name = "CIT Resewn"
+filename = "citresewn-1.1.5+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "80d5b5b7bd73a1af7e3ea2c3a770efd7043d399e"
+mode = 'url'
+url = 'https://pub-76ed360952c04f37a61c7368a7a8ccde.r2.dev/mods/citresewn-1.1.5%2B1.20.1.jar'
+
+[update]
+[update.curseforge]
+file-id = 5222582
+project-id = 521427
