@@ -747,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "764254d825d054e9f372af315cda7a68f5061b71263fbd8f0185c531b2d061c4"
+hash = "307d0f5d151d5965ec22aecdb0fadcead6895445fbdc5058d8c4563442449af9"
 metafile = true
 
 [[files]]
