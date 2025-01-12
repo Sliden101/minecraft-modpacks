@@ -6,7 +6,7 @@ side = "both"
 hash-format = "sha1"
 hash = "d54e84209659445fb69acd4e86b38a35acb9b420"
 mode = 'url'
-url = 'https://pub-76ed360952c04f37a61c7368a7a8ccde.r2.dev/mods/AetherVillages-1.20.1-1.0.7-forge.jar'
+url = 'https://pub-76ed360952c04f37a61c7368a7a8ccde.r2.dev/mods/palegarden-1.0.5-forge-1.20.1.jar'
 
 [update]
 [update.curseforge]

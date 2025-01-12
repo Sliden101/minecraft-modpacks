@@ -957,7 +957,7 @@ metafile = true
 
 [[files]]
 file = "mods/pale-garden.pw.toml"
-hash = "df06bf0dc0a729533f460efd245d354b56787447b5443f3c2d81c41b8bb3981f"
+hash = "144e851fce2f773a10d553a5853e585682dd0bff65be07f39a54781f8700f6a6"
 metafile = true
 
 [[files]]
@@ -1222,7 +1222,7 @@ metafile = true
 
 [[files]]
 file = "mods/umbral-skies.pw.toml"
-hash = "14d04ac395b5bf86dacc358f6a6dd40057143eb8730a02a8d0203f863d01b57a"
+hash = "95eaa7952e9590a501396b666e19fc494637751292e69305c8acc3e6b0661e79"
 metafile = true
 
 [[files]]
