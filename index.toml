@@ -816,6 +816,16 @@ hash = "9fed2f5f1e1ab7022c3523fb3404df657b5c632c402bbafc18d0a1be9090ef26"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "16c4fbbf63e8f7943cc52c30d42ca270a6941135d3af5b29b6e598debec32b22"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "836f092821571bdd68d97dfa21f4a1343fe69d0e1707148fdf139e47961c7522"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "5fa57813f3fc912babefdc138d3404e8275bd44b7a39527cad30fb7feb5b136a"
 metafile = true
@@ -1063,6 +1073,11 @@ metafile = true
 [[files]]
 file = "mods/shield-expansion.pw.toml"
 hash = "e14db2953fffcc4cb00b25c2618d73a6a50911bb88cf7a7ef40f0ec6e1b91c3c"
+metafile = true
+
+[[files]]
+file = "mods/simple-planes.pw.toml"
+hash = "708e72fdde02979987118bdfb9b2c65be916059598cca9935c050653a090e3bb"
 metafile = true
 
 [[files]]
