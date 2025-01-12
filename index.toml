@@ -161,11 +161,6 @@ hash = "4fd72203c28612e39ed9297b6af8630375f26352007cc83f5102822b3627a892"
 metafile = true
 
 [[files]]
-file = "mods/biome-music.pw.toml"
-hash = "940e7ecb885a639093e88678a1a47c242d368a284eda065d005efe5441a92d6a"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "93a5d756a7a93adcd4e93343416a7080e43544a6ce0066dd445a7e3335dc1239"
 metafile = true
@@ -1218,11 +1213,6 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "1360439728730381b7b8ee55caa46b480f5f74f6a37403ae5d1535d65b71c3b3"
-metafile = true
-
-[[files]]
-file = "mods/umbral-skies.pw.toml"
-hash = "95eaa7952e9590a501396b666e19fc494637751292e69305c8acc3e6b0661e79"
 metafile = true
 
 [[files]]
