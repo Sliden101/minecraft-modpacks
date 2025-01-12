@@ -171,11 +171,6 @@ hash = "93a5d756a7a93adcd4e93343416a7080e43544a6ce0066dd445a7e3335dc1239"
 metafile = true
 
 [[files]]
-file = "mods/bisect-mod.pw.toml"
-hash = "dd5aefa0830ad91c1a1b810dde9ace763bd35c12dec68da58657105cc6a0183b"
-metafile = true
-
-[[files]]
 file = "mods/blossom-blade.pw.toml"
 hash = "eee3a50b2b400d40eb79f8d72f5f38a53f9d2953fb5d340cc9fa9c2062ff851e"
 metafile = true
